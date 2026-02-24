@@ -2,8 +2,6 @@
 
 > **You Don’t Need Better Predictions. You Need a Better Framework.**
 
-*(Click the link below to view the full presentation)*
-
 **[📥 Download / View Full Pitch Deck (PDF)](./Thesis/Investment%20Thesis_PPT.pdf)**
 
 ## The Problem: Framework Failure, Not Market Failure
