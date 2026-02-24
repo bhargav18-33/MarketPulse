@@ -2,7 +2,7 @@
 
 > **You Don’t Need Better Predictions. You Need a Better Framework.**
 
-**[📥 Download / View Full Pitch Deck (PDF)](./Thesis/Investment%20Thesis_PPT.pdf)**
+**[📥 Download / View Full Pitch Deck (PDF)](./Thesis/Investment_Thesis.pdf)**
 
 ## The Problem: Framework Failure, Not Market Failure
 One of the most persistent issues in modern investing is not a lack of information, but a lack of framework. Many investors describe themselves as long-term, yet their behaviour tells a different story—struggling through volatility, taking gains prematurely, or losing discipline when returns compound slowly. 
