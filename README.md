@@ -10,6 +10,10 @@ This document describes a systematic, multi-factor momentum equity strategy appl
 
 Backtested performance over the evaluation period shows a 38.14% CAGR against a 19.48% CAGR for the QQQ benchmark, a Sharpe ratio of 1.62, and a downside capture ratio of 65.4%, indicating outperformance driven substantially by risk mitigation rather than elevated volatility (beta 0.99). Full methodology, parameters, and limitations are documented below.
 
+- 📄 **[Portfolio Analysis Report](Results/Portfolio_report.pdf)**
+
+- 📊 **[Trade Analysis Results](Results/USA_TOP_20_trade_analysis.csv)**
+
 ---
 
 ## 1. Architecture
